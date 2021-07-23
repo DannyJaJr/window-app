@@ -2,7 +2,11 @@
 import './App.css';
 
 function App() {
-  return <h1>Hello Coders</h1>
+  return (
+  <section className="walpaper">
+    <div className="task-bar"></div>
+  </section>
+  )
 }
 
 export default App;
